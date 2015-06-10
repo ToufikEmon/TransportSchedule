@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_about_us"
+        android:icon="@drawable/aboutus"
+        android:title="@string/acion_about_us"/>
+    <item
+        android:id="@+id/action_update"
+        android:icon="@drawable/exit"
+        android:title="@string/action_update"/>
+    <item
+        android:id="@+id/action_exit"
+        android:icon="@drawable/exit"
+        android:title="@string/action_exit"/>
+
+</menu>

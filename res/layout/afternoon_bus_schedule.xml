@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aftrn"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnAfternoon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_afternoon" 
+        android:textColor="@color/txt_color"/>
+
+    <Button
+        android:id="@+id/btnAfternoonCD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_campus_dhaka" 
+        android:textColor="@color/txt_color"/>
+
+    <TextView
+        android:id="@+id/tvAftrnoon1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name3"
+        android:textAlignment="inherit"
+        android:textSize="18dp" 
+        android:textColor="@color/txt_color"/>
+
+    <TextView
+        android:id="@+id/tvAftrnoon2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name4"
+        android:textAlignment="inherit"
+        android:textSize="18dp" 
+        android:textColor="@color/txt_color"/>
+
+</LinearLayout>

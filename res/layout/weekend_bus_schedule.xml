@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/we"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnHoliday1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name6"
+        android:textColor="@color/txt_color" />
+
+    <Button
+        android:id="@+id/btnHoliday2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_campus_dhaka"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvHoliday1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name11"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvHoliday2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name12"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvHoliday3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name9"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/btnHoliday3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name2"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvHoliday4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name13"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvHoliday5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name7"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvHoliday6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name8"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvHoliday7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name9"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvHoliday8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name10"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+</LinearLayout>

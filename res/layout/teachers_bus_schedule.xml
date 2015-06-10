@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/teacher"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnTeacher1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_campus_dhaka"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvTeacher1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_name14"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvTeacher2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_name15"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnTeacher2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name2"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvTeacher3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_name16"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvTeacher4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_name17"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transport Schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="morning_bus">সকালের  বাস</string>
+    <string name="afternoon_bus ">দুপুরের  বাস</string>
+    <string name="evenning_bus ">বিকালের  বাস</string>
+    <string name="night_bus ">রাতের  বাস</string>
+    <string name="teachers_bus">শিক্ষকদের  বাস</string>
+    <string name="weekend">শুক্রবার এবং বন্ধের দিন</string>
+    <string name="btn_name">সকালের  বাস</string>
+    <string name="btn_campus_dhaka">ক্যাম্পাস-ঢাকা</string>
+    <string name="txt_name">সকাল ৫:৪৫ (কমিউনিটি)</string>
+    <string name="btn_name2">ঢাকা-ক্যাম্পাস</string>
+    <string name="txt_name1">সকাল ৭:৩০ (এয়ারপোর্ট)  </string>
+    <string name="txt_name2">সকাল ৭:৩০ (মানিক মিয়া এভিনিউ)</string>
+    <string name="btn_afternoon">দুপুরের  বাস</string>
+    <string name="txt_name3">দুপুর ৩:০০ (বঙ্গবাজার)  </string>
+    <string name="txt_name4">দুপুর ৩:০০ (এয়ারপোর্ট)  </string>
+    <string name="btn_name4"> বিকাল ও সন্ধ্যার  বাস</string>
+    <string name="txt_name5">বিকাল ৫:০০ (বঙ্গবাজার)  </string>
+    <string name="txt_name6">বিকাল ৪:৩০ (বঙ্গবাজার)  </string>
+    <string name="txt_name7"> সন্ধ্যা ৬:০০(বঙ্গবাজার)  </string>
+    <string name="txt_name8"> সন্ধ্যা ৭:০০(বঙ্গবাজার)  </string>
+    <string name="btn_name5">রাত্রির  বাস</string>
+    <string name="txt_name9"> রাত ৮:০০(বঙ্গবাজার)  </string>
+    <string name="txt_name10"> রাত ৯:০০(কমিউনিটি) </string>
+    <string name="btn_name6">শুক্রবার ও বন্ধের দিন </string>
+    <string name="txt_name11">সকাল ৯:৩০ (বঙ্গবাজার)  </string>
+    <string name="txt_name12">বিকাল ৪:০০ (বঙ্গবাজার)  </string>
+    <string name="txt_name13">দুপুর ২:১৫ (বঙ্গবাজার)  </string>
+    <string name="txt_name14">দুপুর ১:১৫ </string>
+    <string name="txt_name15">বিকাল  ৪:৪৫   </string>
+    <string name="txt_name16">সকাল ৭:৩০  </string>
+    <string name="txt_name17">সকাল ৭:৪৫   </string>
+    <string name="txt_dept"><b>Dept. Of CSE</b></string>
+    <string name="txt_emon"><b><I>Toufik Ahmed Emon</I></b></string>
+    <string name="txt_egm"><b><I>ahmedemoncse20@gmail.com</I></b></string>
+    <string name="txt_anup"><b><I>Anup Majumder</I></b></string>
+    <string name="txt_agm"><b><I>anupju.cse20@gmail.com</I></b></string>
+    <string name="acion_about_us">About Us</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_update">Update</string>
+    <string name="action_share">Share</string>
+    <string name="action_exit"> Exit</string>
+
+    <color name="txt_color">#ff0000</color>
+    <color name="btn_color">#FF4444</color>
+    <color name="btn_red_color">#1a2db4</color>
+
+</resources>

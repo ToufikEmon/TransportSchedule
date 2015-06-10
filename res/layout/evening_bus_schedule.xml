@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bikal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnEvenning1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name4"
+        android:textColor="@color/txt_color" />
+
+    <Button
+        android:id="@+id/btnEvenning2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_campus_dhaka"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvEvenning1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name5"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnEvenning3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name2"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvEvenning2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name6"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvEvenning3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name7"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvEvenning4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name8"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp" />
+
+</LinearLayout>

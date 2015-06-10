@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnMorinig1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name"
+        android:textColor="@color/txt_color" />
+
+    <Button
+        android:id="@+id/btnMorinig2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_campus_dhaka"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvMorning1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/btnMorinig3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_name2"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/tvMorning2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name1"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/tvMorning3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="@string/txt_name2"
+        android:textAlignment="inherit"
+        android:textColor="@color/txt_color"
+        android:textSize="18dp" />
+
+</LinearLayout>
